@@ -1,0 +1,89 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico|Open+Sans:300);
+body {
+  margin-top: 50px;
+}
+.container {
+  text-align: center;
+  color: #3366ff;
+}
+
+#label {
+  margin-bottom: -40px;
+  font-family: "Pacifico";
+  font-size: 50px;
+}
+
+.break {
+  color: #3366ff;
+}
+
+.work {
+  color: #3366ff;
+}
+
+.timer {
+  font-size: 25px;
+}
+
+.clock {
+  font-size: 25px;
+  cursor: pointer;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border-radius: 50%;
+  border: 5px solid #3366ff;
+  height: 200px;
+  width: 200px;
+  position: relative;
+  text-align: center;
+  margin: 0 auto;
+}
+
+#time {
+  font-size: 50px;
+  padding-top: 45px;
+}
+
+body {
+  background: #4d4d4d;
+}
+
+#switchreset {
+  margin-top: 30px;
+}
+
+.pointer {
+  cursor: pointer;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+#switchreset {
+  cursor: pointer;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.breakwork {
+  padding-bottom: 20px;
+  margin-top: 30px;  
+}
+
+
+img {
+  height: 50%;
+  width: 25%; 
+}
+
